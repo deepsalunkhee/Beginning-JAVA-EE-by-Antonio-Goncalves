@@ -1,1 +1,1 @@
-The Book mainly follows via JAVA EE 7 and GlassFist , but I am trying this stuff using Jakarta 10 and Jboss/wildfly 37 so if you want to use it some how , just letting you know somethings might not match exactly to the Book .
+The Book mainly follows via JAVA EE 7 and GlassFish , but I am trying this stuff using Jakarta 10 and Jboss/wildfly 37 so if you want to use it some how , just letting you know somethings might not match exactly to the Book .
